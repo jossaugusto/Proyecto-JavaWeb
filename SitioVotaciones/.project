@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>EjercicioGrupal</name>
+	<name>SitioVotaciones</name>
 	<comment></comment>
 	<projects>
+		<project>standard-1.1.2</project>
+		<project>mysql-connector-java-8.0.30</project>
+		<project>jstl-1.2</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
